@@ -9,12 +9,12 @@
 
 A clean, responsive personal portfolio built with pure HTML and CSS as a front-end practice project.
 
-[**Live Demo / Project Link**](#)
+[**Live Demo / Project Link**](https://fabiohtoledo.github.io/Portifolio-Curso-2023/)
 
 ## 📋 About the Project
 A minimalist portfolio website developed as part of a hands-on front-end course focused on mastering HTML5 and CSS3 fundamentals. This project serves as a digital business card to showcase personal information and skills.
 
-[**Related Course / Documentation Link**](#)
+[**Related Course / Documentation Link**](https://www.udemy.com/course/html5-css3-e-javascript-na-pratica-3-projetos/)
 
 ## 🚀 Features
 - Fully responsive design for all screen sizes
@@ -42,12 +42,12 @@ A minimalist portfolio website developed as part of a hands-on front-end course 
 
 Um portfólio pessoal limpo e responsivo construído com HTML e CSS puros como projeto prático de front-end.
 
-[**Link do Projeto / Demo**](#)
+[**Link do Projeto / Demo**](https://fabiohtoledo.github.io/Portifolio-Curso-2023/)
 
 ## 📋 Sobre o Projeto
 Site de portfólio minimalista desenvolvido como parte de um curso prático de front-end focado em dominar os fundamentos do HTML5 e CSS3. Este projeto serve como um cartão de visitas digital para apresentar informações pessoais e habilidades.
 
-[**Link do Curso / Documentação**](#)
+[**Link do Curso / Documentação**](https://www.udemy.com/course/html5-css3-e-javascript-na-pratica-3-projetos/)
 
 ## 🚀 Funcionalidades
 - Design totalmente responsivo para todos os tamanhos de tela
